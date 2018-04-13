@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/item0"
+        android:icon="@mipmap/ic_sports"
+        android:title="运动"/>
+    <item android:id="@+id/item1"
+        android:icon="@mipmap/ic_music"
+        android:title="音乐"/>
+    <item android:id="@+id/item2"
+        android:icon="@mipmap/ic_movies"
+        android:title="电影"/>
+    <item android:id="@+id/item3"
+        android:icon="@mipmap/ic_setting"
+        android:title="设置"/>
+
+
+</menu>
